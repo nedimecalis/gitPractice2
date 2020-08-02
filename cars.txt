@@ -4,3 +4,6 @@ Toyota
 BMW
 Jaguar
 Bentley
+Mercedes
+Fiat
+Tofas
